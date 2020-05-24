@@ -1,0 +1,25 @@
+.inf{
+    color:white;
+    font-size: 22px;
+}
+.bodyprin{display: flex;
+            padding: 2vw;
+            justify-content: space-between}
+.alq{background-color: white;
+    border-radius: 2vw;
+    font-weight: bold;
+    padding: 0.2vw 1vw;
+    border: 1px #474747 solid;
+    
+    
+;}
+
+.der{
+    color: white;
+    font-size: 20px;
+    text-align: justify
+}
+.rent{
+    float:right;
+    margin: 1vw
+}

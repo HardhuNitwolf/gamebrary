@@ -1,0 +1,21 @@
+.imgs{
+   
+    
+}
+.img-hover1:hover{
+ border: 1px white dotted
+}
+.img-hover2:hover{
+  border: 1px white dotted
+}
+
+.question{
+ position: absolute;
+    color: white;
+    z-index: 1;
+    top:65%;
+    font-size: 48px;    
+   -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  
+}

@@ -1,0 +1,76 @@
+body{
+  background-color: rgba(255, 166, 0, 0.733);
+ 
+}
+.members{
+    padding: 2vw;
+    color: white
+    
+}
+.cab{
+    font-weight: bold;
+    border-top: none
+    
+}
+.permision{
+    
+    width: 25px;
+    height: 25px;   
+}
+.panelb{
+    
+    padding: 0.5vh 1.5vw;
+    
+    
+}
+.dec{
+    color: white;
+    text-decoration: none;
+}
+.dec:hover{
+    color: white;
+    text-decoration: none;
+    font-weight: bold
+}
+.navadmin{
+   background: transparent; 
+}
+
+.memberst{
+    background-color: #06d6a0
+}
+.gamest{
+    background-color: #05a8aa
+}
+
+.bookst{
+    background-color: #8d6a9f
+}
+.membersb{
+   background-color: #06d6a0;
+      
+}
+
+.gamesb{
+    background-color: #05a8aa;
+        
+}
+
+.booksb{
+    background-color: #8d6a9f;
+       
+}
+.add{
+    text-decoration: none;
+    color: black
+}
+.add:hover{
+    color:black;
+    text-decoration: none;
+    font-weight: bold
+}
+.table-footer{
+    display: flex;
+    justify-content: space-between
+}
+

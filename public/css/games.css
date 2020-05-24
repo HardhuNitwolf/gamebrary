@@ -1,0 +1,29 @@
+
+.categories{
+    background-color: #474747;
+    color: white;
+    font-size: 20px;
+    padding: 0.5vw;
+    border: 1px black solid;
+    margin-bottom: 0.5vw;
+    border-radius: 0.5vw;
+    
+}
+.categories:hover{
+    border: 2px orange solid;
+    
+}
+.categories:active{
+    border: 2px black solid;
+    background-color: orange;
+    
+}
+.categoryTitle{color: white;
+text-align: center;}
+
+.promotion{
+    margin: 0.5vw
+}
+.promotion:hover{
+    border:1px black solid
+}

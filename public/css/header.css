@@ -1,0 +1,39 @@
+  #banner{
+     background:#474747;
+     height: auto;
+    
+     
+ }
+ #drake{
+     height: 30%;
+    
+  
+     margin-left: 42%;
+ }
+ body{
+     background:#009DE0;
+     
+ }
+
+ .space{
+     margin-right: 3%;
+     margin-left: 3%;
+     padding: 0.75% 5%;
+     
+ }
+ .space:hover{
+     font-weight: bold;
+     color: orange;
+     text-shadow: 1px 1px black;
+ }
+ .space:focus{
+     color:white;
+     background: orange;
+ }
+ .navbar-expand-md {
+        padding: 0;
+    }
+    
+    .nav-link:hover{
+         font-weight: bold;
+    }

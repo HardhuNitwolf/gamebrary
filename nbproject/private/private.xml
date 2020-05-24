@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/donation.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/public/css/app.css</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/public/css/games.css</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/faqs.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/public/css/admin.css</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/public/css/details.css</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/books.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/us.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/app/Http/Controllers/GamesController.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/app/Http/Controllers/BooksController.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/user/profile.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/contact.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/admin/board.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/games.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/public/css/footer.css</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/app/Http/Controllers/DetailsController.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/app/Mail/Donation.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/details.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/resources/views/layouts/footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/gamebrary/app/Http/Controllers/AdminController.php</file>
+        </group>
+    </open-files>
+</project-private>

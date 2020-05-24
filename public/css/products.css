@@ -1,0 +1,27 @@
+.tituloArt{
+    color: white;
+    font-size: 20px;
+    text-align: center
+}
+.imageArt{
+    border-radius: 10%
+}
+.imageArt:hover{
+    border: 2px solid black
+}
+.imageArt:active{
+    border: 2px solid orange
+}
+
+.imageArt2{
+    border: 7px white solid;
+     border-radius: 10%
+}
+
+.imageArt2:hover{
+    
+    border: 2px solid black
+}
+.imageArt2:active{
+    border: 2px solid orange
+}

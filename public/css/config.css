@@ -1,0 +1,44 @@
+.avatar{
+    
+    width: 125px;
+    height: 125px;    
+    border: 1px #474747 solid;
+    border-radius: 50%;
+        
+}
+
+.navbar .container-avatar{
+    
+    width: 50px;
+    height: 50px;
+    margin-top: 2%;    
+    border-radius: 100%;
+    margin-right: 1vw
+}
+
+.navbar .container-avatar img{
+   width: 50px;
+    height: 50px; 
+}
+#avy{
+    
+    float: left;
+    margin-left: 1vw;
+}
+
+#image{
+    margin-left: 6.3vw;
+}
+
+.prof{margin-top: 0.7vh}
+
+#adjust{
+    margin-left: 7vw;
+    
+}
+#edite{
+     margin-left: 4.5vw;
+}
+#edi :hover{
+    background-color: orange
+}

@@ -1,0 +1,43 @@
+
+.footer-body {
+    background: #474747;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+.footer-item {
+    margin-left: 2vw;
+    color: white;
+     
+}
+
+.social-media-footer {
+    max-width: 30px;
+    margin: 1vh 1vw;
+}
+
+.corp{
+    color: white;
+ 
+}
+#cent{
+    margin-right: 6vw;
+}
+footer {
+ position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+    z-index: 9999;
+   
+}
+.infor{
+    text-decoration:none;
+}
+.infor:hover{
+   text-decoration:none;
+    color: orange
+}
